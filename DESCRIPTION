@@ -1,0 +1,10 @@
+Title: SEBOTA ·· Edición
+Version: 0.1.0
+Authors@R: c(
+    person("Ignacio", "Ramos-Gutiérrez", , "ignacio.ramosgutierrez@uam.es", role = c("aut", "cre")),
+    person("Sara", "Martín-Hernanz", role = "aut"),
+    person("Sonia", "Molino de Miguel", role = "aut"),
+  )
+Description: Página web de la salida de SEBOTA (3ª Edición).
+License: GPL-3
+Encoding: UTF-8

@@ -1,0 +1,14 @@
+---
+title: Nagore García Medina
+sortby: 2
+subtitle: Universidad Autónoma de Madrid \ (Organización)
+image: https://secretaria-virtual.uam.es/Navegacion/fotos/502/5027073.jpg
+toc: false
+about:
+  id: person-profile
+  template: jolla
+
+---
+
+:::{#person-profile}
+:::

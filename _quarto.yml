@@ -1,0 +1,39 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "SEBOTA IV Edición"
+  sidebar:
+    background: primary
+    logo: "pics/SEBOTA_logo.png"
+    pinned: true
+    align: center
+    tools:
+      - icon: github
+        href: https://github.com/se-bota/sebota-IV
+        text: Inicio
+    style: docked
+    contents:
+      - href: index.qmd
+        text: Inicio
+      - href: schedule.qmd
+        text: Calendario
+      - href: materials.qmd
+        text: Materiales
+      - href: participantes.qmd
+        text: Participantes
+      - href: https://se-bota.github.io/sebota/
+        text: Página general de SEBOTA
+
+
+
+format:
+  html:
+    theme: minty
+    # css: styles.css
+    toc: true
+
+execute:
+  freeze: auto
+
