@@ -2,4 +2,4 @@
 
 [Web General de SEBOTA](https://se-bota.github.io/sebota/)
 
-[Web de la segunda edición](https://se-bota.github.io/sebota-II/)
+[Web de la cuarta edición](https://se-bota.github.io/sebota-IV/)
