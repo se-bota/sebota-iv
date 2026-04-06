@@ -2,7 +2,7 @@
 title: Modesto Luceño Garcés
 sortby: 1
 subtitle: Universidad Pablo de Olavide (Sevilla) \  (Organización)
-image: https://www.asturnatura.com/Imagenes/usuarios/modestoluceno.jpg
+image: http://www.floraiberica.es/images/personas/luceno.jpg
 toc: false
 about:
   id: person-profile
